@@ -2,7 +2,7 @@ import java.security.DrbgParameters;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class App {
+public class ContaBanco {
     public static void main (String[] args){
         
         System.err.println("Sistema bancario inicializado...");
